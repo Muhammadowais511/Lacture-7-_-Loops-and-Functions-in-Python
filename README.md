@@ -1,7 +1,6 @@
 # Lacture-7-_-Loops-and-Functions-in-Python
 Python project demonstrating the use of loops and functions, created and tested in Google Colab for learning purposes.
-
-
+https://github.com/Muhammadowais511/Lacture-7-_-Loops-and-Functions-in-Python/blob/main/Loops_%26_Creating_Functions.ipynb
 # Python Loops and Functions Project
 
 This repository contains a Python project built in **Google Colab**.  
